@@ -103,6 +103,13 @@ a product by https://www.intersurgical.com/ put on the market within 4 days:
 https://twitter.com/peedutuisk/status/1244147488631783426?s=21
 
 
+# print instructions
+The 3mf files contain the print profiles for Cura
+There are 2 ways for printing:
+- The 'solid' files can be printed in spiralize mode without top and bottom and should take about 0,5 hour
+- The 'thin' files can be printed with 2 walls or more. The 'slice magic' here is horizontal expansion to get perfectly 2 walls on every layer wihout travels moves.
+(!!for the 'thin' files the shield parts may not fit, working on that!!)
+
 
 More info:
 joris@protospace.nl
@@ -110,7 +117,7 @@ joris@protospace.nl
 CAD file: https://cad.onshape.com/documents/386345b8b35f07a23b98d4cf/w/1dbd3009202c78cf666f48e0/e/a3b6868cdc88b26d78cda7e5
 
 
-
+ProtoSpace - The Innovation Lab
 Joris van Tubergen | Digital manufacturing
 
 Padualaan 99 | 3584 CH Utrecht
